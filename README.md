@@ -87,7 +87,7 @@ Open-source licenses allow others to freely use, modify, and distribute your pro
 
 - **Name**: Ankita Sharma
 - **Role**: Project Maintainer/Lead Developer
-- **LinkedIn**: [Ankita Sharma](https://www.linkedin.com/in/ankitrajsh/)
+- **LinkedIn**: [Ankit Sharma](https://www.linkedin.com/in/ankitrajsh/)
 - **Email**: ankitraj.84060@gmail.com
 
 ## Credits
